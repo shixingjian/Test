@@ -13,3 +13,4 @@ def is_number(s):
         pass
 
     return False
+print(is_number("abc"))
